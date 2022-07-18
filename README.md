@@ -43,7 +43,6 @@ replace chrome_link="link goes here"
 Place the absolute link for the chromedriver inside
 
 Finally, go to ur cmd and change the directory so your inside python folder.
-type
 
 
 
